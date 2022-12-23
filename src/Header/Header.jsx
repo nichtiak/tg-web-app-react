@@ -1,4 +1,5 @@
 import React from 'react';
+import Button from "../Button/button";
 
 const Header = () => {
   const tg = window.Telegram.WebApp;
